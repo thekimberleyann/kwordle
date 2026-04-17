@@ -9,8 +9,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Chad's Games", /*What shows on the tab*/
-  description: "Chad's Christmas Gift",
+  title: "Korn Wordle", /*What shows on the tab*/
+  description: "Korn Wordle",
 };
 
 export default function RootLayout({

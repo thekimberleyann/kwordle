@@ -1,4 +1,4 @@
-# Gamesk
+# KWordle
 
 A collection of Wordle-style word guessing games built with Next.js and Tailwind CSS. Additionally has customized themes for the current games.
 
